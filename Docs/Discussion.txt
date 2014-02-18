@@ -1,0 +1,149 @@
+******************************** PORTFOLIO MANAGER (PM) *********************************
+
+18th Feb.2014
+>>>>>>>>>>>>>>>>>>>>>>>
+
+LOGIN to enter the site:
+eg. http://sharesansar.com/portfolio_new/index.php?page=ss
+
+~~~~~~~~~~~~~~~~USER MODULE
+
+>> User can register for the PM
+	Country :		
+	> YOUR DETAILS
+	Salutation :		
+	First Name : *		
+	Last Name : *		
+	Email : *		
+	Mobile : *		
+	> YOUR LOGIN INFORMATION
+	Username : *		
+	Password : *		
+	Password Again :		
+	Security Check : *	 (Security check is to verify that you are human and not an automated machine.)
+ 		
+ 	Register (Button)
+
+>> User can login now
+	Username:
+	Password:
+	Login (Button), Forgot Password (Button)
+	
+===================================================================
+
+Home page:
+Menus such as :
+	#Home
+	#Setup
+	#Buy
+	#Sell
+	#Settings
+	#Reports
+	#Edit
+	#Delete
+	
+~~~~~~~~~~~~~~~~~~~SETUP A PORTFOLIO
+>> Create new portfolio:
+
+	Enter New Portfolio Name:
+	Submit(Button)
+	
+>> Company Selection Window:
+
+	> List companies selecting from alphabets
+	> Sectorwise Selection
+	> Search Company
+	??????? Do we need to provide feature to add companies or where can we get information about all companies with their sector
+	??????? Super Admin User?? Dashboard??
+	
+	====================
+	> Select multiple companies listed and add to cart
+	> Option to list companies from alphabets, sectorwise and can search a company and add to basket
+	> Checkout (Button) to confirm the companies in the basket
+	
+	====================
+	> Enter all data required for selected companies 
+		????	what are the fields required, formulas needed if any
+	> Review Data and then only submit, if back button pressed need to go back to previous form with the previously entered data
+	> Confirm(Button), Back (Button)
+
+========================================================================
+
+~~~~~~~~~~~~~~~~~~~HOME PAGE CONTENT
+
+>> Portfolio Performance History
+>> Today's Quick analysis (Today's Portfolio Value, +/-Profit or Loss Value and Profit/Loss percentage)
+>> Performance Line Chart
+>> Investment Pie Chart
+>> Sector Wise Investment Chart
+>> Sector wise Return
+>> Updated News
+>> Today's Daily price monitor of your selected companies
+>> Today's Performance Monitor
+>> Today's Gainer (Profit) List
+>> Today's Decliner (Loss) List
+	
+~~~~~~~~~~~~~~~ BUY MODULE
+
+> Select a portfolio name and add stock
+> list of companies selection similar to portfolio setup
+
+??? more information after selecting portfolio name
+
+~~~~~~~~~~ SELL MODULE
+> Select a portfolio name and sell stock
+> Select company names from your list of companies which you want to sell stock for
+> Enter the Sales Qty. Sales Rate,Total Commission as in your Bill,Total Tax as in your Bill,Click on Next
+
+?? More information on Sell Stock Entry
+
+> Review Data and then only submit, if back button pressed need to go back to previous form with the previously entered data
+> Confirm(Button), Back (Button)
+
+~~~~~~~~~~~~ EDIT EXISTING PORTFOLIO
+> Edit Portfolio
+	- select companies to edit and then edit all the fields
+> Edit sales (more info)
+> Edit Purchase (more info)	
+ Operation Mode?? What is it?
+ 
+ =====================================================
+ ~~~~~~~~~~~ REPORTS MODULE
+ 
+ >>> Reports I
+ - Can View and Print your Report with different criteria (Buy and Sell History).
+ - Select Sales Report Date wise
+ - Select Buy Report Date wise
+
+>>> Reports II
+	- Reports on Sectorial allocation (Banking, Hydro, Hotels, Insurance) ???????
+ 
+>>> Reports III
+	- Reports on riskiness of portfolio
+
+>>> Reports IV
+	- Complex Reports. Data saved from Nepes in Database. Needs to be able to do complex calculation based on mathematical modellings and produce graphs
+
+=========================================
+~~~~~~~~~~~~~~ PORTFOLIO NEWS
+- News from around the internet related to the companies in the portfolio 
+
+~~~~~~~~~PORTFOLIO COMPARISON TO MARKET
+- Comparison of the performance of the portfolio to other the benchmark indices (data will be provided)
+
+~~~~~~~~ Portfolio Comparison to Other Portfolios
+- Comparison of the performance of the portfolio to other portfolios (data to be extracted from Nepse web).
+
+
+
+
+
+	
+	
+
+
+
+	
+	
+
+	
